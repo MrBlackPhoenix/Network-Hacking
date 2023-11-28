@@ -1,6 +1,6 @@
 # Network Hacking
 
-## Discovering hosts from the outside
+## Discovering Hosts from the Outside
 
 This is going to be a **brief section** about how to find **IPs responding** from the **Internet**.\
 In this situation you have some **scope of IPs** (maybe even several **ranges**) and you just to find **which IPs are responding**.
